@@ -7,7 +7,7 @@ Full Stack Developer
 Prior to getting into development, I was in technical sales for 5 years. While I loved diving into the challenges clients were facing, I wanted to be closer to actually creating solutions, rather than just presenting them. I made the jump to development and haven't looked back!
 
 * 🌍  I'm based in the Greater Boston Area
-* 🚀  I'm currently working on [GigFinder](http://https://gigfinder-50d1801870bd.herokuapp.com/)
+* 🚀  I'm currently working on [GigFinder](https://gigfinder-50d1801870bd.herokuapp.com/)
 * 🧠  I'm learning new React hooks and Typescript
 * ⚡  Prior to my career in tech, I made my living as a singer. You can still catch me at Boston karaoke bars, more than likely singing some Edwin McCain! If I'm not there, I'm probably on the golf course...
 
